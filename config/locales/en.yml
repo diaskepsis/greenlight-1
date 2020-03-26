@@ -179,7 +179,7 @@ en:
   enter_your_name: Enter your name!
   errors:
     bigbluebutton:
-      help: Please make sure the proper steps have been taken. <a href="%{doc_link}">Learn more</a>
+      help: Please make sure the proper steps have been taken.
       message: Invalid Diaskepsis Endpoint and Secret
       title: Server Error
     internal:
@@ -294,7 +294,7 @@ en:
         signup:
           info: A user that was invited has signed up to use Greenlight.
           admins_link: Visit the Organization Page
-          subject: New Greenlight User Sign Up
+          subject: New Diaskepsis User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Invitation to join Diaskepsis
         username: Your username is %{email}.
